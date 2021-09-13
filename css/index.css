@@ -53,3 +53,8 @@ button {
   border-color: #1ac888;
   border-style: solid;
 }
+
+.bane {
+  color: blue;
+  background-color: red;
+}
